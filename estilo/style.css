@@ -77,7 +77,7 @@ section > p {
     color: white;
     box-shadow: inset 6px 6px 13px 0 rgba(0, 0, 0, 0.205);
     background-size: cover;
-    background-position: right;
+    background-position: center;
     background-attachment: fixed;
 }
 
